@@ -1,0 +1,42 @@
+{
+  "identifier": "STOREKIT_CONFIG",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "SUBGROUP1",
+      "localizations": [],
+      "name": "Layoverly Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "SUB1",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlimited layovers & reminders",
+              "displayName": "Layoverly Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.layover.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Layoverly Pro",
+          "subscriptionGroupID": "SUBGROUP1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
